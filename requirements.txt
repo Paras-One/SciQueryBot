@@ -1,0 +1,10 @@
+langchain_experimental 
+langchain_openai
+langchain_community
+langchain_huggingface
+faiss-cpu
+streamlit
+sentence-transformers
+guardrails-ai
+hydralit_components
+PyMuPDF
