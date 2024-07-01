@@ -1,5 +1,5 @@
 ### SciQueryBot
-A RAG enebled tool to answer questions you have for your research paper.
+A RAG enabled tool to answer questions you have for your research paper.
 
 Made By:
 1. Navyatha
